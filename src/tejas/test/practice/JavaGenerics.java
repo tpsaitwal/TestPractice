@@ -14,6 +14,4 @@ public class JavaGenerics {
 		myGenericList.add(true);
 		myGenericList.forEach(System.err::println);		
 	}
-	
-	
 }
